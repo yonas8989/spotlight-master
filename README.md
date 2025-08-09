@@ -1,12 +1,5 @@
 <h1 align="center">✨ Spotlight – Real‑Time Social Media App 🚀</h1>
 
-![Demo App](/assets/images/screenshot-for-readme.png)
-
-Welcome to **Spotlight**!  
-In this one‑stop tutorial you’ll build a production‑ready **real‑time social network** that runs on **iOS, Android, and the web**—all with **React Native + Expo**, **Convex**, and **Clerk**.
-
----
-
 ## 🎯 What You'll Build
 
 This isn’t a UI demo—Spotlight is a **full‑stack, real‑time** social platform.
